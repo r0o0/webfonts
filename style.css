@@ -20,10 +20,6 @@ input {
   margin: 60px auto;
 }
 
-.ch {
-  font-family: inherit, sans-serif;
-}
-
 .head {
   width: 80%;
   margin-left: 10%;
@@ -142,4 +138,8 @@ h1.headline {
   content: "";
   display: table;
   clear: both;
+}
+
+.ch {
+  font-family: inherit, sans-serif;
 }
