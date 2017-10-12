@@ -1,7 +1,8 @@
 /*@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);*/
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
 
 body {
-  font-family: 'SpoqaHanSans', sans-serif;}
+  font-family: 'Lato','SpoqaHanSans', sans-serif;}
 
 /*** Font size SETTINGS ***/
 

@@ -1,5 +1,6 @@
 /*@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);*/
-@import url(https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);
+@import url('https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900');
 
 /*****
 Thin 100
@@ -12,7 +13,7 @@ Black 900
 *****/
 
 body {
-  font-family: 'Noto Sans Korean', sans-serif;
+  font-family: 'Lato','Noto Sans Korean', sans-serif;
 }
 
 /*** Font size SETTINGS ***/
