@@ -16,13 +16,22 @@ h1,h2,h3,h4,h5,h6,p,ul {
   margin: 60px auto;
 }
 
-h1.headline {
-  font-size: 22px;
-  margin-bottom: 20px;
-  padding-left: 10%;
+.head {
+  width: 80%;
+  margin-left: 10%;
 }
 
+h1.headline {
+  float:left;
+  width:400px;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
 
+.input {
+  float: right;
+  width: 200px;
+}
 
 
 .text, .numbntext, .price {
