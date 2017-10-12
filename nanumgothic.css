@@ -1,0 +1,91 @@
+ @import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body {  
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+/** 이하는 공통 **/
+.normal {
+ font-style: normal;
+}
+
+.w250 {
+ font-weight: 250;
+}
+
+.w300 {
+ font-weight: 300;
+}
+
+.w350 {
+ font-weight: 350;
+}
+
+.w400 {
+ font-weight: 400;
+}
+
+.w500 {
+ font-weight: 500;
+}
+
+.w700 {
+ font-weight: 700;
+}
+
+.w800 {
+ font-weight: 800;
+}
+
+.w900 {
+ font-weight: 900;
+}
+
+h1 {
+  padding-bottom: 8px;
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+h4 {
+  font-size: 22px;;
+}
+
+h5 {
+  font-size: 18px;;
+}
+
+h6 {
+  font-size: 17px;
+}
+
+p.larger {
+  font-size: 16px;
+}
+
+p.large {
+  font-size: 15px;
+}
+
+p.normal {
+  font-size: 14px;;
+}
+
+p.medium {
+  font-size: 13px;
+}
+
+p.small {
+  font-size: 12px;;
+}
+
+p.tiny {
+  font-size: 11px;
+}
